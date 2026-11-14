@@ -3,6 +3,10 @@
 	"version": "0.1.0",
 	"description": "SiON synthesis engine and Web Audio host",
 	"type": "module",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/designerzen/SiON.git"
+	},
 	"main": "./SiON.js",
 	"types": "./SiON.d.ts",
 	"exports": {
